@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sneha Kirtikumar Kamble</h1>
----
-<div align="center">A passionate Python Developer from India
-</div>
 ### 🌱 About Me:
 - 🔭 I’m currently learning **Python and Data Science**.
 - 👨‍💻 All of my projects are available [here on GitHub](https://github.com/SnehaKamble04).
