@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sneha Kirtikumar Kamble</h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" alt="Coding GIF 1" width="600" />
-  <br/>
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Coding GIF 2" width="600" />
-</div>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Student Studying and Coding GIF" width="600" />
+  </div>
 
 ---
 
