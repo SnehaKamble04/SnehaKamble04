@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sneha Kirtikumar Kamble</h1>
-<div align="center">
-  <img src=<img src=https://images.app.goo.gl/WGEuW5B7UDaHSybv8 /> />
-  </div>
 
 ---
 
