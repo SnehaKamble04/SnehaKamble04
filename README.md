@@ -8,6 +8,7 @@
 ### 🌱 About Me:
 - 🔭 I’m currently learning **Python and Data Science**.
 - 👨‍💻 All of my projects are available [here on GitHub](https://github.com/SnehaKamble04).
+- 🎮 Fun Fact: I enjoy exploring creative projects like building games, including a **Snake Game**!
 - 📫 How to reach me: **ksnehakirti123@gmail.com**.
 
 ---
@@ -27,21 +28,34 @@
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🛠️ Technologies I Work With:
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" alt="Python" width="40" height="40" /> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg" alt="Java" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/django.svg" alt="Django" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg" alt="MySQL" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg" alt="React" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg" alt="Node.js" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" alt="JavaScript" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg" alt="HTML5" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg" alt="CSS3" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg" alt="Bootstrap" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postgresql.svg" alt="PostgreSQL" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docker.svg" alt="Docker" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spring.svg" alt="Spring" width="40" height="40" />
+  <img src="https://img.shields.io/badge/Python-Expert-brightgreen" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-Advanced-orange" alt="Java" />
+  <img src="https://img.shields.io/badge/Django-Expert-brightgreen" alt="Django" />
+  <img src="https://img.shields.io/badge/MySQL-Advanced-blue" alt="MySQL" />
+  <img src="https://img.shields.io/badge/React-Beginner-lightblue" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-Intermediate-yellow" alt="Node.js" />
+  <img src="https://img.shields.io/badge/HTML5-Expert-brightgreen" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-Expert-brightgreen" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Bootstrap-Intermediate-purple" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Intermediate-blue" alt="PostgreSQL" />
+</p>
+
+---
+
+### 🎮 Snake Game:
+<p align="center">
+  <img src="https://github.com/SnehaKamble04/SnehaKamble04/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SnehaKamble04&show_icons=true&theme=radical" alt="Sneha's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SnehaKamble04&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnehaKamble04&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
