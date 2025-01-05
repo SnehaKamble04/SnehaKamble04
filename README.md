@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sneha Kirtikumar Kamble</h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" alt="Coding GIF" width="600" />
+  <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" alt="Coding GIF 1" width="600" />
+  <br/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Coding GIF 2" width="600" />
 </div>
 
 ---
@@ -8,7 +10,7 @@
 ### 🌱 About Me:
 - 🔭 I’m currently learning **Python and Data Science**.
 - 👨‍💻 All of my projects are available [here on GitHub](https://github.com/SnehaKamble04).
-- 🎮 Fun Fact: I enjoy exploring creative projects like building games, including a **Snake Game**!
+- 🎮 Fun Fact: I enjoy exploring creative projects, including games and AI-based systems.
 - 📫 How to reach me: **ksnehakirti123@gmail.com**.
 
 ---
@@ -44,13 +46,6 @@
 
 ---
 
-### 🎮 Snake Game:
-<p align="center">
-  <img src="https://github.com/SnehaKamble04/SnehaKamble04/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
-
----
-
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SnehaKamble04&show_icons=true&theme=radical" alt="Sneha's GitHub Stats" />
@@ -66,5 +61,5 @@ If you like my profile, consider supporting me:
 - ⭐ [Star my GitHub profile](https://github.com/SnehaKamble04).
 
 <div align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Thank You" width="600" />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Thank You GIF" width="600" />
 </div>
