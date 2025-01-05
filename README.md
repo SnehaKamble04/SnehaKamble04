@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sneha Kirtikumar Kamble</h1>
 <div align="center">
-  <img src=<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Girl Coding GIF" width="600" /> />
+  <img src=<img src=https://images.app.goo.gl/WGEuW5B7UDaHSybv8 /> />
   </div>
 
 ---
