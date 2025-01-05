@@ -15,17 +15,11 @@
 
 ---
 
-### 🌐 Connect with Me:
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/sneha-kirtikumar-kamble/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/snehakamble04" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/snehakamble04" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sneha-k-kamble-48b733267/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sneha-k-kamble-48b733267/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/jerry_0_4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jerry_0_4/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/snehakamble04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="snehakamble04" height="30" width="40" /></a>
 </p>
 
 ---
@@ -55,11 +49,3 @@
 
 ---
 
-### ❤️ Support:
-If you like my profile, consider supporting me:
-- 💰 [Buy me a coffee](https://ko-fi.com/rahuldkjain).
-- ⭐ [Star my GitHub profile](https://github.com/SnehaKamble04).
-
-<div align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Thank You GIF" width="600" />
-</div>
