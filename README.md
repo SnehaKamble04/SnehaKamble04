@@ -23,8 +23,7 @@ Full-stack developer building web platforms with **Django, Django REST Framework
 - **Office_management_Django_Project**: office workflow management
 - **AskMyPDF AI Chatbot**: ask questions over PDF documents
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=SnehaKamble04&show_icons=true&theme=dark)
+
 
 ## 🔗 Connect
-[LinkedIn](https://linkedin.com/in/your-link) · [Instagram](https://instagram.com/your-link)
+[LinkedIn][(https://linkedin.com/in/your-link](https://www.linkedin.com/in/sneha-k-kamble-48b733267/)) 
